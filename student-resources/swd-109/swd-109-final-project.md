@@ -2,4 +2,4 @@
 
 ## Resources
 
-- Orientation: [05-01-23 Mod](https://vimeo.com/manage/videos/821819552)
+- Orientation: [05-22-23 Mod](https://vimeo.com/828321440?share=copy)
