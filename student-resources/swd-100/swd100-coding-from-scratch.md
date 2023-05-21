@@ -26,3 +26,5 @@
 - Workshop: [Version Control: Git & GitHub](https://vimeo.com/827396180?share=copy))
 	[Presentation](https://view.genial.ly/646282a082da750018e7fc0e)
 	[GitHub Repository](https://github.com/DrVicki/new_project) 
+
+### Workshop: [SWD100-Week 3-Final Project Demonstration and Code-ALong](https://vimeo.com/828742366?share=copy)
